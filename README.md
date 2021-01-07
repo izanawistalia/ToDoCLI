@@ -1,5 +1,5 @@
 #ToDoCLI
-<h1 align="center>ToDoCLI</h1>
+<h1 align="center">ToDoCLI</h1>
 <ul>
 <h2>USAGE</h2>
 <li><h3>### 1. Help </h3></li>
