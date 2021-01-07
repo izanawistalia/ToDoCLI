@@ -1,8 +1,7 @@
-#ToDoCLI
 <h1 align="center">ToDoCLI</h1>
 <ul>
 <h2>USAGE</h2>
-<li><h3>### 1. Help </h3></li>
+<li><h3> 1. Help </h3></li>
 
 Executing the command without any arguments, or with a single argument `help` prints the CLI usage.
 
